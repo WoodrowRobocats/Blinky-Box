@@ -1,0 +1,936 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640/core\core.a(hooks.c.o)
+                              C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\FastLED.cpp.o (symbol from plugin) (yield)
+C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640/core\core.a(wiring.c.o)
+                              C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin) (timer0_millis)
+C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640/core\core.a(wiring_digital.c.o)
+                              C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\power_mgt.cpp.o (symbol from plugin) (digital_pin_to_bit_mask_PGM)
+C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640/core\core.a(HardwareSerial.cpp.o)
+                              C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin) (_ZN14HardwareSerial5beginEmh)
+C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640/core\core.a(HardwareSerial0.cpp.o)
+                              C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin) (Serial)
+C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640/core\core.a(Print.cpp.o)
+                              HardwareSerial.cpp.o (symbol from plugin) (_ZN5Print5writeEPKhj)
+C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640/core\core.a(WMath.cpp.o)
+                              C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin) (_Z6randoml)
+C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640/core\core.a(abi.cpp.o)
+                              C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin) (__cxa_pure_virtual)
+C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640/core\core.a(main.cpp.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o (main)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o (exit)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(random.o)
+                              WMath.cpp.o (symbol from plugin) (random)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(random.o) (__divmodsi4)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o) (__negsi2)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(random.o) (__do_copy_data)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(random.o) (__muluhisi3)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(random.o) (__mulohisi3)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o) (__udivmodsi4)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o) (__umulhisi3)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+                              C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans1.ltrans.o (__mulsi3)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+                              C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans0.ltrans.o (__divmodhi4)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                              C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans0.ltrans.o (__do_clear_bss)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+                              C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans1.ltrans.o (__do_global_ctors)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+                              C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans0.ltrans.o (__usmulhisi3)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o) (__tablejump2__)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(abort.o)
+                              C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans1.ltrans.o (abort)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+ .text          0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN14CLEDController4sizeEv
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZNK14CLEDController17getMaxRefreshRateEv
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZNK19ClocklessControllerILh6ELi4ELi10ELi6EL6EOrder66ELi0ELb0ELi10EE17getMaxRefreshRateEv
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN14HardwareSerial5beginEm
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN14CLEDControllerC5Ev
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTV14CLEDController
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN14CLEDController17computeAdjustmentEhRK4CRGBS2_
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN14CLEDController13getAdjustmentEh
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN14CLEDController9showColorERK4CRGBih
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN14CLEDController9clearLedsEi
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN18__gen_struct_PORTD1rEv
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN8CFastLED4showEv
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN19CPixelLEDControllerIL6EOrder66ELi1ELm4294967295EEC5Ev
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTV19CPixelLEDControllerIL6EOrder66ELi1ELm4294967295EE
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN19ClocklessControllerILh6ELi4ELi10ELi6EL6EOrder66ELi0ELb0ELi10EEC5Ev
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTV19ClocklessControllerILh6ELi4ELi10ELi6EL6EOrder66ELi0ELb0ELi10EE
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN22WS2812Controller800KhzILh6EL6EOrder66EEC5Ev
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTV22WS2812Controller800KhzILh6EL6EOrder66EE
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN8NEOPIXELILh6EEC5Ev
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTV8NEOPIXELILh6EE
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN8CFastLED7addLedsI8NEOPIXELLh6EEER14CLEDControllerP4CRGBii
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZGVZN8CFastLED7addLedsI8NEOPIXELLh6EEER14CLEDControllerP4CRGBiiE1c
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZZN8CFastLED7addLedsI8NEOPIXELLh6EEER14CLEDControllerP4CRGBiiE1c
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN7_AVRPINILh6ELh64E18__gen_struct_PORTD17__gen_struct_DDRD17__gen_struct_PINDE9setOutputEv
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN19ClocklessControllerILh6ELi4ELi10ELi6EL6EOrder66ELi0ELb0ELi10EE4initEv
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN8CMinWaitILi10EE4waitEv
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN19ClocklessControllerILh6ELi4ELi10ELi6EL6EOrder66ELi0ELb0ELi10EE15showRGBInternalER15PixelControllerILS0_66ELi1ELm4294967295EE
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN8CMinWaitILi10EE4markEv
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN19ClocklessControllerILh6ELi4ELi10ELi6EL6EOrder66ELi0ELb0ELi10EE10showPixelsER15PixelControllerILS0_66ELi1ELm4294967295EE
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN15PixelControllerIL6EOrder66ELi1ELm4294967295EE11initOffsetsEi
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN15PixelControllerIL6EOrder66ELi1ELm4294967295EE21init_binary_ditheringEv
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZZN15PixelControllerIL6EOrder66ELi1ELm4294967295EE21init_binary_ditheringEvE1R
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN15PixelControllerIL6EOrder66ELi1ELm4294967295EE16enable_ditheringEh
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN15PixelControllerIL6EOrder66ELi1ELm4294967295EEC5EPK4CRGBiRS2_h
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN19CPixelLEDControllerIL6EOrder66ELi1ELm4294967295EE4showEPK4CRGBiS2_
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN15PixelControllerIL6EOrder66ELi1ELm4294967295EEC5ERK4CRGBiRS2_h
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN19CPixelLEDControllerIL6EOrder66ELi1ELm4294967295EE9showColorERK4CRGBiS2_
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o (symbol from plugin)
+ .data          0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans0.ltrans.o
+ .data          0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans1.ltrans.o
+ .text          0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\FastLED.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN14CLEDController12clearLedDataEv
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\FastLED.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN14CLEDController17computeAdjustmentEhRK4CRGBS2_
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\FastLED.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN14CLEDController13getAdjustmentEh
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\FastLED.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN14CLEDController8showLedsEh
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\FastLED.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN14CLEDController9showColorERK4CRGBh
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\FastLED.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZNK14CLEDController17getMaxRefreshRateEv
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\FastLED.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN8CFastLED4showEv
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\FastLED.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\bitswap.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\colorpalettes.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\colorutils.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN4CRGBpLERKS_
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\colorutils.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN4CRGB13nscale8_videoEh
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\colorutils.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN4CRGB7nscale8Eh
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\colorutils.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\hsv2rgb.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\lib8tion.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\noise.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN4CRGBpLERKS_
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\noise.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN4CRGBrSEh
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\noise.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN1qIhLi4ELi4EEmlEi
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\noise.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN1qIhLi4ELi4EEmlEj
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\noise.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN1qIjLi8ELi8EEmlEm
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\noise.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN1qIjLi8ELi8EEmlEi
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\noise.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN1qIhLi4ELi4EEmlEm
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\noise.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\power_mgt.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3Pin6selectEv
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\power_mgt.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3Pin7releaseEv
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\power_mgt.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3Pin10isSelectedEv
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\power_mgt.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN14CLEDController4sizeEv
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\power_mgt.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3Pin5_initEv
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\power_mgt.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN3PinC5Ei
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\power_mgt.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTV10Selectable
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\power_mgt.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTV3Pin
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\power_mgt.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN8CFastLED4showEv
+                0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\power_mgt.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\wiring.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 hooks.c.o (symbol from plugin)
+ .text          0x00000000        0x0 wiring.c.o (symbol from plugin)
+ .text          0x00000000        0x0 wiring_digital.c.o (symbol from plugin)
+ .text          0x00000000        0x0 HardwareSerial.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTV14HardwareSerial
+                0x00000000        0x0 HardwareSerial.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 HardwareSerial0.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTV6Stream
+                0x00000000        0x0 HardwareSerial0.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN14HardwareSerial16_rx_complete_irqEv
+                0x00000000        0x0 HardwareSerial0.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 Print.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN5Print5writeEPKc
+                0x00000000        0x0 Print.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZN5Print5writeEPKcj
+                0x00000000        0x0 Print.cpp.o (symbol from plugin)
+ .gnu.linkonce.t._ZTV5Print
+                0x00000000        0x0 Print.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 WMath.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 abi.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 main.cpp.o (symbol from plugin)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(random.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(random.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(abort.o)
+ .data          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(abort.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(abort.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+LOAD C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\sketch\BBB.ino.cpp.o
+LOAD C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans0.ltrans.o
+LOAD C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans1.ltrans.o
+LOAD C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\FastLED.cpp.o
+LOAD C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\bitswap.cpp.o
+LOAD C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\colorpalettes.cpp.o
+LOAD C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\colorutils.cpp.o
+LOAD C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\hsv2rgb.cpp.o
+LOAD C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\lib8tion.cpp.o
+LOAD C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\noise.cpp.o
+LOAD C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\power_mgt.cpp.o
+LOAD C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640\libraries\FastLED-3.1.8\wiring.cpp.o
+LOAD C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640/core\core.a
+LOAD c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+START GROUP
+LOAD c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a
+LOAD c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a
+LOAD c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a
+END GROUP
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x37e4
+ *(.vectors)
+ .vectors       0x00000000       0x68 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000068                . = ALIGN (0x2)
+                0x00000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000068        0x0 linker stubs
+ *(.trampolines*)
+                0x00000068                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data  0x00000068     0x1cb4 C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans1.ltrans.o
+                0x00001d1c                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00001d1c                __ctors_start = .
+ *(.ctors)
+ .ctors         0x00001d1c        0x2 C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans1.ltrans.o
+                0x00001d1e                __ctors_end = .
+                0x00001d1e                __dtors_start = .
+ *(.dtors)
+                0x00001d1e                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00001d1e        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+                0x00001d1e                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00001d1e        0xc c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00001d2a       0x16 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+                0x00001d2a                __do_copy_data
+ .init4         0x00001d40       0x10 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                0x00001d40                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x00001d50       0x16 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+                0x00001d50                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00001d66        0x8 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00001d6e        0x4 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+                0x00001d6e                __vector_22
+                0x00001d6e                __vector_1
+                0x00001d6e                __vector_24
+                0x00001d6e                __vector_12
+                0x00001d6e                __bad_interrupt
+                0x00001d6e                __vector_6
+                0x00001d6e                __vector_3
+                0x00001d6e                __vector_23
+                0x00001d6e                __vector_25
+                0x00001d6e                __vector_11
+                0x00001d6e                __vector_13
+                0x00001d6e                __vector_17
+                0x00001d6e                __vector_7
+                0x00001d6e                __vector_5
+                0x00001d6e                __vector_4
+                0x00001d6e                __vector_9
+                0x00001d6e                __vector_2
+                0x00001d6e                __vector_21
+                0x00001d6e                __vector_15
+                0x00001d6e                __vector_8
+                0x00001d6e                __vector_14
+                0x00001d6e                __vector_10
+                0x00001d6e                __vector_20
+ .text          0x00001d72      0xba8 C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans0.ltrans.o
+                0x00001e0c                _ZNK19ClocklessControllerILh6ELi4ELi10ELi6EL6EOrder66ELi0ELb0ELi10EE17getMaxRefreshRateEv
+                0x00001e12                _ZN19ClocklessControllerILh6ELi4ELi10ELi6EL6EOrder66ELi0ELb0ELi10EE4initEv
+                0x00001e16                _ZN19CPixelLEDControllerIL6EOrder66ELi1ELm4294967295EE4showEPK4CRGBiS2_
+                0x00001e9e                _ZN19CPixelLEDControllerIL6EOrder66ELi1ELm4294967295EE9showColorERK4CRGBiS2_
+                0x00001f96                _ZNK14CLEDController17getMaxRefreshRateEv
+                0x00001f9c                _ZN14CLEDController4sizeEv
+                0x00001fa4                _ZN14CLEDController9clearLedsEi
+                0x0000224c                micros
+                0x00002296                delay
+                0x0000230a                _ZN19ClocklessControllerILh6ELi4ELi10ELi6EL6EOrder66ELi0ELb0ELi10EE10showPixelsER15PixelControllerILS0_66ELi1ELm4294967295EE
+                0x000027b0                __vector_16
+                0x00002844                _Z15RetrieveSetInfoj
+                0x000028a4                _Z13GetImageWidthjh
+                0x000028c2                _Z12GetNextPixelv
+ .text          0x0000291a      0x6b8 C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans1.ltrans.o
+                0x00002f1e                __cxa_pure_virtual
+                0x00002f22                __vector_19
+                0x00002f6e                __vector_18
+                0x00002fd2                . = ALIGN (0x2)
+ *(.text.*)
+ .text.startup  0x00002fd2      0x5fc C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans1.ltrans.o
+                0x0000305e                main
+ .text.avr-libc
+                0x000035ce       0xb8 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(random.o)
+                0x00003664                random_r
+                0x0000366a                random
+                0x00003674                srandom
+ .text.libgcc.div
+                0x00003686       0x2e c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+                0x00003686                __divmodsi4
+ .text.libgcc.div
+                0x000036b4       0x10 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+                0x000036b4                __negsi2
+ .text.libgcc.mul
+                0x000036c4       0x16 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+                0x000036c4                __muluhisi3
+ .text.libgcc.mul
+                0x000036da       0x10 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+                0x000036da                __mulshisi3
+                0x000036e0                __mulohisi3
+ .text.libgcc.div
+                0x000036ea       0x44 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+                0x000036ea                __udivmodsi4
+ .text.libgcc.mul
+                0x0000372e       0x1e c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+                0x0000372e                __umulhisi3
+ .text.libgcc.mul
+                0x0000374c       0x20 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+                0x0000374c                __mulsi3
+ .text.libgcc.div
+                0x0000376c       0x28 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+                0x0000376c                _div
+                0x0000376c                __divmodhi4
+ .text.libgcc.mul
+                0x00003794        0xe c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_usmulhisi3.o)
+                0x00003794                __usmulhisi3
+                0x00003798                __usmulhisi3_tail
+ .text.libgcc.div
+                0x000037a2       0x28 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+                0x000037a2                __udivmodhi4
+ .text.libgcc   0x000037ca        0xc c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                0x000037ca                __tablejump2__
+ .text.avr-libc
+                0x000037d6        0xa c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(abort.o)
+                0x000037d6                abort
+                0x000037e0                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000037e0        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                0x000037e0                _exit
+                0x000037e0                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000037e0        0x4 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000037e4                _etext = .
+
+.data           0x00800100       0x42 load address 0x000037e4
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x4 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(random.o)
+ *(.data*)
+ *(.rodata)
+ .rodata        0x00800104        0xc C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans0.ltrans.o
+ .rodata        0x00800110       0x32 C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans1.ltrans.o
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800142                . = ALIGN (0x2)
+                0x00800142                _edata = .
+                0x00800142                PROVIDE (__data_end, .)
+
+.bss            0x00800142      0x3f8
+                0x00800142                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800142        0xc C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans0.ltrans.o
+ .bss           0x0080014e      0x3ec C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans1.ltrans.o
+                0x0080014e                ImageSetCount
+                0x00800150                ImageSetDelay
+                0x00800152                ImageCycleCount
+                0x00800154                PixelColorType
+                0x00800155                timer0_millis
+                0x00800159                CurrentDecompressionCount
+                0x0080015a                CurrentDataPointer
+                0x0080015c                CurrentPixelColor
+                0x0080015f                SetImageTablePointer
+                0x00800161                GlobalBackgroundColor
+                0x00800164                GlobalForegroundColor
+ *(.bss*)
+ *(COMMON)
+                0x0080053a                PROVIDE (__bss_end, .)
+                0x000037e4                __data_load_start = LOADADDR (.data)
+                0x00003826                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080053a        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x0080053a                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x11
+ *(.comment)
+ .comment       0x00000000       0x12 C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans0.ltrans.o
+ .comment       0x00000000       0x12 C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans1.ltrans.o
+ .comment       0x00000000       0x11 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(random.o)
+                                 0x12 (size before relaxing)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0x50
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans0.ltrans.o
+ .debug_aranges
+                0x00000020       0x30 C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans1.ltrans.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x6c0c
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+ .debug_info    0x000005f4     0x31f9 C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans0.ltrans.o
+ .debug_info    0x000037ed     0x341f C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans1.ltrans.o
+
+.debug_abbrev   0x00000000     0x13f3
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+ .debug_abbrev  0x000005a2      0x6ff C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans0.ltrans.o
+ .debug_abbrev  0x00000ca1      0x752 C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans1.ltrans.o
+
+.debug_line     0x00000000     0x1942
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000       0x1a c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+ .debug_line    0x0000001a      0xd44 C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans0.ltrans.o
+ .debug_line    0x00000d5e      0xbe4 C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans1.ltrans.o
+
+.debug_frame    0x00000000      0x5b0
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x354 C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans0.ltrans.o
+ .debug_frame   0x00000354      0x25c C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans1.ltrans.o
+
+.debug_str      0x00000000     0x163c
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
+ .debug_str     0x00000208      0x902 C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans0.ltrans.o
+                                0x97d (size before relaxing)
+ .debug_str     0x00000b0a      0xb32 C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans1.ltrans.o
+                                0xee5 (size before relaxing)
+
+.debug_loc      0x00000000     0x2aa5
+ *(.debug_loc)
+ .debug_loc     0x00000000     0x18ae C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans0.ltrans.o
+ .debug_loc     0x000018ae     0x11f7 C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans1.ltrans.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x3e0
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0x140 C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans0.ltrans.o
+ .debug_ranges  0x00000140      0x2a0 C:\Users\a0212178\AppData\Local\Temp\ccf71jDD.ltrans1.ltrans.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(C:\Users\a0212178\AppData\Local\Temp\arduino_build_183640/BBB.ino.elf elf32-avr)
+LOAD linker stubs
